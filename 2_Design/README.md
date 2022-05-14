@@ -1,5 +1,3 @@
-# M3_car-wiper-system
+# M3_car_Wiper_SysteM
 
-__ How the wiper works ?__
-
-![Windscreen_Wiper](https://user-images.githubusercontent.com/101333790/168218530-986d5459-73dd-4764-b259-f070c6d42c28.gif)
+_
