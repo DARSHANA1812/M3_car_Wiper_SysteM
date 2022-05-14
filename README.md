@@ -11,3 +11,5 @@
 
 
 [![Bulid CI - windows](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Windows.yml/badge.svg)](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Windows.yml)
+
+[![Code Quality - Cppcheck](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Cppchech.yml/badge.svg)](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Cppchech.yml)
