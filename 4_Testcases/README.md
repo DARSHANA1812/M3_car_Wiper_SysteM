@@ -1,4 +1,4 @@
-# M3_car-wiper-system
+# M3_car_Wiper_SysteM
 
 The table below shows the different design plans to test the model designing and the status of the output obtained and compared with actual output. If both the outputs are same, then status will be 'PASS'. The output is tested for different corner points/inputs.
 
