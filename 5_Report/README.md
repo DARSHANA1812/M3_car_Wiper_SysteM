@@ -19,10 +19,6 @@ STM32F407 series of microcontrollers are high-performance MCUs designed for medi
 The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applications with the STM32F407 high performance microcontrollers with ARM cortex-M4 32-bit core. It includes everything required either for beginners or for experienced users to get quickly started. Based on the STM32F407VGT6, it includes an ST-LINK/V2 or ST-LINK/V2-A embedded debug tool, two ST MEMS digital accelerometers, a digital microphone, one audio DAC with integrated class D speaker driver, LEDs and push buttons and an USB OTG micro-AB connector.
 
 
-![Requirements](https://user-images.githubusercontent.com/101333790/168214465-9e3fb173-b205-4829-af87-b3ac6b815964.png)
-
-
-
 # 4'WS and 1H:
 ### Who
 All automobiles have wiper system and The drive moves the two wiper arms at a certain angle across the windshield, providing a clear view for the driver and passenger while travelling.
