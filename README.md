@@ -8,3 +8,6 @@
 
 
 [![Build_CI - Linux](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Linux.yml/badge.svg)](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Linux.yml)
+
+
+[![Bulid CI - windows](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Windows.yml/badge.svg)](https://github.com/DARSHANA1812/M3_car_Wiper_SysteM/actions/workflows/Windows.yml)
